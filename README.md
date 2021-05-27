@@ -16,6 +16,7 @@
 - [Oklahoma Real Estate Data](https://docs.oklahomacounty.org/AssessorWP5/AN-R.asp?PropertyID=55799) (input scraping script)
 - [Startupwala](https://www.startupwala.com/list-of-registered-companies-in-india-P1) (mass scraping)
 - [Screener](https://www.screener.in/company/GRANULES/consolidated/) (using selenium)
+- [CoinGecko](https://www.coingecko.com/en) (7500+ coins data)
 
 ## APIs
 - Google Maps API
